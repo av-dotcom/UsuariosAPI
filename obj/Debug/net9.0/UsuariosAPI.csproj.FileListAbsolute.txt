@@ -34,3 +34,4 @@
 /Users/avilaca/Documents/av-dotcom/programming/UsuariosAPI/obj/Debug/net9.0/UsuariosAPI.pdb
 /Users/avilaca/Documents/av-dotcom/programming/UsuariosAPI/obj/Debug/net9.0/UsuariosAPI.genruntimeconfig.cache
 /Users/avilaca/Documents/av-dotcom/programming/UsuariosAPI/obj/Debug/net9.0/ref/UsuariosAPI.dll
+/Users/avilaca/Documents/av-dotcom/programming/UsuariosAPI/obj/Debug/net9.0/UsuariosAPI.sourcelink.json
